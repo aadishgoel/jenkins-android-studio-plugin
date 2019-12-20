@@ -102,14 +102,14 @@ public class MyForm extends JDialog{
     }
 
     private void fireBuild(String branch, String comment) {
-        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/service-market-customer-android-app/build", branch, comment);
+        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/service-market-provider-android/build", branch, comment);
 
         NotificationGroup noti = new NotificationGroup("prodDebugBuild", NotificationDisplayType.BALLOON, true);
         NotificationAction action = NotificationAction.createSimple("Slack", () ->{
             Desktop desktop = java.awt.Desktop.getDesktop();
             URI oURL = null;
             try {
-                oURL = new URI("https://app.slack.com/client/T034MTGTM/CFD5QKJE9");
+                oURL = new URI("https://app.slack.com/client/T034MTGTM/CCMC0Q3GT");
                 desktop.browse(oURL);
             } catch (URISyntaxException ex) {
                 ex.printStackTrace();

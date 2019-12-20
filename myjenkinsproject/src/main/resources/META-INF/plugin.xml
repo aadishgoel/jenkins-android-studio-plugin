@@ -31,19 +31,12 @@
                     <keyboard-shortcut first-keystroke="control alt s" keymap="$default"/>
                 </action>
 
-                <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildProdDebug"
-                        class="actions.BuildProdDebug"
-                        text="Build ProdDebug"
-                        description="BuildProdDebug">
-
-                    <keyboard-shortcut first-keystroke="control alt " keymap="$default"/>
-                </action>
                 <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildRelease"
                         class="actions.BuildRelease"
                         text="Build Release"
                         description="buildRelease">
 
-                    <keyboard-shortcut first-keystroke="control alt m" keymap="$default"/>
+                    <keyboard-shortcut first-keystroke="control alt r" keymap="$default"/>
                 </action>
                 <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildCustomBranch"
                         class="actions.BuildCustomBranch"

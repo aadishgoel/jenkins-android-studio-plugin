@@ -30,15 +30,15 @@ public class BuildStage extends AnAction {
         String command  = "git branch";
         String branchPath = runCommand(command);
         String branch = branchPath.split(" ")[1];
-        String comment = "stage";
-        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/service-market-customer-android-app/build", branch, comment);
+        String comment = "debug";
+        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/service-market-provider-android/build", branch, comment);
 
-        NotificationGroup noti = new NotificationGroup("prodDebugBuild", NotificationDisplayType.BALLOON, true);
+        NotificationGroup noti = new NotificationGroup("debugBuild", NotificationDisplayType.BALLOON, true);
         NotificationAction action = NotificationAction.createSimple("Slack", () ->{
             Desktop desktop = java.awt.Desktop.getDesktop();
             URI oURL = null;
             try {
-                oURL = new URI("https://app.slack.com/client/T034MTGTM/CFD5QKJE9");
+                oURL = new URI("https://app.slack.com/client/T034MTGTM/CCMC0Q3GT");
                 desktop.browse(oURL);
             } catch (URISyntaxException ex) {
                 ex.printStackTrace();
@@ -47,7 +47,7 @@ public class BuildStage extends AnAction {
             }
         });
         noti.createNotification("Build",
-                "ProdDebug build triggered on Jenkins: Check Slack",
+                "Debug build triggered on Jenkins: Check Slack",
                 NotificationType.INFORMATION,
                 null
         ).addAction(action).notify(e.getProject());
