@@ -4711,6 +4711,11 @@
       </map>
     </option>
   </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-" />
+    </option>
+  </component>
   <component name="VcsLogIndexCollector">
     <option name="indexTime" value="29121" />
   </component>

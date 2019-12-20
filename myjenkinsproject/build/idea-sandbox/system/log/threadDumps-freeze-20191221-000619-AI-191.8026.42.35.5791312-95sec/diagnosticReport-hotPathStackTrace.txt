@@ -1,0 +1,14 @@
+"AWT-EventQueue-0" tid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+     Frozen for 6secs
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.awt.EventQueue.getNextEvent(EventQueue.java:554)
+	at com.intellij.ide.IdeEventQueue.getNextEvent(IdeEventQueue.java:493)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:187)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

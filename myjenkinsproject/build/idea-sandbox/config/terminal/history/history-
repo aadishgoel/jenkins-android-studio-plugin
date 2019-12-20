@@ -1,0 +1,500 @@
+npm start
+git status
+git commit -m "homescreen review related changes in BE"
+git add server/api/customer_request/service_market_controller/customer_request_helper.js
+git add server/api/customer_request/service_market_controller/post_request.controller.js
+git add server/presentationLayer/postRequest/bookingPostRequest/dataStoreModules/createRatingStore.js
+git commit -m "homescreen review related changes in BE"
+git push
+git status
+git checkout -b tushar/homescreenReviewBE
+git status
+git log
+git push
+git push --set-upstream origin tushar/homescreenReviewBE
+npm start
+git status
+git status
+git add server/api/customer_request/service_market_controller/post_request.controller.js
+git add server/presentationLayer/postRequest/bookingPostRequest/dataStoreModules/createRatingStore.js
+git commit -b "kusha ke bole hue changes"
+git commit -m "kusha ke bole hue changes"
+git push
+git status
+git pull master
+git pull
+git commit -m "pull changes"
+git push
+git pull origin master
+git commit -m "master pull"
+git push
+git status
+git status
+git add .
+git commit -m "comment deleted"
+git push
+cd ../..
+cd Downloads/analytics\ 2/analytics\ 2/
+python mary.py 
+python mary.py 
+python mary.py 
+/Applications/Genymotion\ Shell.app/Contents/MacOS/genyshell ; exit;
+adb devices
+mvn exec:java -Dexec.mainClass="executionEngine.DriverScript"top -o cpu
+top -o cpu
+ps aux|grep process
+ps aux|more
+emulator -list-avds
+adb kill-server
+emulator -list-avds
+adb devices
+adb emu kill
+adb emu 
+mvn exec:java -Dexec.mainClass="executionEngine.DriverScript"
+mvn clean install -e
+cd hybrid-automation-jenkins/
+mvn clean install -e
+mvn exec:java -Dexec.mainClass="executionEngine.DriverScript"
+cd service-market/
+git status
+git checkout master
+git fetch
+git pull origin master
+npm i
+npm start
+git checkout ishant/paymentoption_refactoring
+git stash
+git checkout ishant/paymentoption_refactoring
+npm start
+cd Downloads/analytics\ 2/analytics\ 2/
+python mary.py 
+python mary.py 
+python mary.py 
+pwd
+git checkout https://gitlab.urbanclap.com/urbanclap/payment-service.git
+git clone https://gitlab.urbanclap.com/urbanclap/payment-service.git
+git checkout https://gitlab.urbanclap.com/urbanclap/payment-service.git
+cd payment-service/
+git checkout ishant/paymentoption_refactoring
+tsc
+npm install -g typescript
+tsc
+node server.js 
+npm i
+node --version
+nvm
+nvm list
+nvm install 10
+nvm list
+node --version
+npm i
+node server.js 
+rm -rf node_modules/
+npm i
+node server.js 
+cd service-market/
+npm start
+npm start
+npm start
+npm start
+npm start
+cd Downloads/analytics\ 2/
+cd analytics\ 2/
+python mary.py 
+python mary.py 
+cd ../..
+cd ..
+cd service-market/
+git checkout origin master
+git checkout master
+git stash
+git checkout master
+git fetch
+git pull
+cd service-market/
+npm start
+git pull origin stage
+git pull master
+git pull origin master
+git stash
+git pull origin master
+git status
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git pull origin master
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git status
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git status
+git status
+git diff server/api/customer_request/service_market_controller/post_request.controller.jsgit
+git pull origin master
+git checkout -b tushar/reviewABFlow
+git status
+git stash
+git commit -m "aewai changes"
+git add .
+git commit -m "aewai changes"
+git push
+git push --set-upstream origin tushar/reviewABFlow
+git pull origin master
+git checkout master
+git stash
+git checkout master
+git add .
+git commit -m "need to delete"
+git push
+git checkout master
+git pull
+git status
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+git diff server/api/customer_request/service_market_controller/post_request.controller.js
+npm start
+npm start
+npm start
+npm start
+nodemon
+nodemon
+npm git checkout -b tushar/pendingReviewABFlow
+git checkout -b tushar/pendingReviewABFlow
+git status
+git diff server/featureConfig.js
+git diff server/featureConfig.js
+git status
+git add .
+git commit -m "AB changes and bug fixes"
+git push
+git push --set-upstream origin tushar/pendingReviewABFlow
+git pull origin master
+git status
+nodemod
+nodemon
+git status
+git add .
+git commit -m "master merge"
+git push
+git pull origin master
+git push
+cd service-market/
+git pull origin master
+git push
+git status
+git status
+git add ab_exp.js
+git add server/api/customer_request/service_market_controller/post_request.controller.js
+git push
+git fetcg
+git fetch
+git push
+git status
+git diff server/api/customer_request/service_market_controller/customer_request_helper.js
+git status
+git commit -m "some changes"
+git push
+git pull origin master
+git push
+git pull tushar/pendingReviewABFlow
+git pull origin tushar/pendingReviewABFlow
+git stash
+git pull origin tushar/pendingReviewABFlow
+git status
+git push
+git status
+git branch
+git pull origin master
+git add .
+git pull origin master
+git commit -m "changes - mayank"
+git pull origin master
+git branch
+git push origin tushar/pendingReviewABFlow
+git status
+git add .
+git commit -m "my changes"
+git push
+cd Downloads/analytics\ 2/analytics\ 2/
+python mary.py
+git clone --depth 1 git://git.jetbrains.org/idea/community.git idea
+getPlugins.sh
+getPlugins.bat
+run getPlugins.sh
+run getPlugins.bat
+cd IdeaProjects/
+cd ..
+cd idea/
+getPlugins.sh
+run getPlugins.sh
+/Users/tusharaeron/idea/getPlugins.sh 
+/Users/tusharaeron/idea/getPlugins.sh 
+/Users/tusharaeron/idea/getPlugins.sh 
+git clone --depth 1 git://git.jetbrains.org/idea/community.git idea
+/Users/tusharaeron/idea/getPlugins.sh 
+ls
+cd id
+cd idea/
+ls
+getPlugins.sh
+/Users/tusharaeron/idea/getPlugins.sh 
+run getPlugins.sh
+/Users/tusharaeron/idea/getPlugins.sh 
+/Users/tusharaeron/idea/getPlugins.sh
+/Users/tusharaeron/idea/getPlugins.bat
+rm -rf idea
+ls
+cd ..
+rm -rf idea
+git clone --depth 1 git://git.jetbrains.org/idea/community.git idea
+adb install -r -d /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -r -d /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+cd Downloads/analytics\ 2/analytics\ 2/
+mary.py
+python mary.py 
+python mary.py 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+123456
+123456
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/Desktop/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/Desktop/app-stage-debug.apk 
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb devices
+adb install -d -r /Users/tusharaeron/Desktop/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/production/debug/app-production-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/production/debug/app-production-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+shasum -a 256 /Applications/Android\ Studio.app 
+shasum -a 256 
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb devices
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/build/outputs/apk/stage/debug/app-stage-debug.apk 
+adb connect
+adb connect
+abd tcpip 5555
+adb tcpip 5555
+adb shell netcfg
+adb shell netcf
+grep 'wlan0'
+adb shell netcfg
+adb shell ifconfig
+adb shell ifconfig | grep wlan
+adb shell ifconfig | grep wlan0
+adb shell ifconfig | grep 'wlan0'
+adb connect 10.0.3.226:5555
+adb devices
+curl -X GET -H "X-device-os: android" -H "Authorization: Bearer jQ3WcePot9l1Py2DK0s9XqrTflMvM3M7sNn6kEyPvcw=" -H "X-version-name: 7.2.02" -H "accept-language: en-IN;q=1" -H "X-version-code: 302" -H "X-client-key: 3b8a3b00373b8163261a1eae9ab198a10c3bc77ff2d7d47f9c15294dfa7f7f3f61d6737bcb94e751dec2dc4fed65d841c40e9d5b7db618b388ff948e66372d11" -H "X-device-id: e999f6926015cbc2" -H "accept: application/json" https://www.urbanclap.com/api/v1/customerrequests/projects/v3/open
+gst
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+keytool -printcert -file CERT.RSA
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+adb install -d -r /Users/tusharaeron/service-market-customer-android-app/app/production/release/app-production-release.apk 
+git branch | grep \* | cut -d ' ' -f2
+git branch | grep \* | cut -d '' -f2
+git branch | grep \* | cut -d ' ' -f2
+git branch | grep \*
+cd /home
+cd ..
+cd home
+ls
+cd /tusharaeron
+cd /Users/
+ls
+cd tusharaeron/
+cd service-market-customer-android-app/
+cd /Users/
+./forge
+cd ..
+cd .ssh
+touch config
+git clone git@github.com:tusharsre/jenkins-android-studio-plugin.git
+sudo git clone git@github.com:tusharsre/jenkins-android-studio-plugin.git
+sudo git clone git@github.com:tusharsre/jenkins-android-studio-plugin.git
+git clone git@github.com:tusharsre/jenkins-android-studio-plugin.git
+ssh-keygen -t rsa -b 4096 -C "tusharsre@gmail.com"
+cd .ssh
+ls
+cat ./id_rsa.pub
+git clone https://github.com/tusharsre/jenkins-android-studio-plugin.git
+git 
+cd jenkins-android-studio-plugin/
+git commit -am "my first commit"
+git add .
+cd myjenkinsproject/
+git commit -am "my first commit"
+gp
+bre
+brew
+brew install zsh
+brew uninstall zsh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git rev-parse --show-toplevel
+git rev-parse 
+git rev-parse --show-toplevel

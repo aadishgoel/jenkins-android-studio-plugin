@@ -7,7 +7,7 @@ import org.jetbrains.annotations.NotNull;
 public class BuildCustomBranch extends AnAction {
     @Override
     public void actionPerformed(@NotNull AnActionEvent e) {
-        MyForm buildBranch = new MyForm(e);
+        MyNewForm buildBranch = new MyNewForm(e);
         buildBranch.setVisible(true);
     }
 }

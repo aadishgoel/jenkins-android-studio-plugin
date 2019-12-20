@@ -1,0 +1,37 @@
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 392222,
+  "reportTime": 1576869228919,
+  "sessionId": "6289e57b-e8ef-4665-a862-09da8fca686d",
+  "threadDumpPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312/threadDump-20191221-004348.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 407047,
+  "reportTime": 1576869243744,
+  "sessionId": "6289e57b-e8ef-4665-a862-09da8fca686d",
+  "threadDumpPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312/threadDump-20191221-004403.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "3.5.0.21",
+  "kotlinVersion": "1.3.41-release-Studio3.5-1",
+  "uptime": 408117,
+  "reportTime": 1576869244813,
+  "sessionId": "6289e57b-e8ef-4665-a862-09da8fca686d",
+  "threadDumpPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312-34sec/diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312-34sec/diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312-34sec/diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "/Users/tusharaeron/jenkins-android-studio-plugin/myjenkinsproject/build/idea-sandbox/system/log/threadDumps-freeze-20191221-004330-AI-191.8026.42.35.5791312-34sec/diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 20877
+}

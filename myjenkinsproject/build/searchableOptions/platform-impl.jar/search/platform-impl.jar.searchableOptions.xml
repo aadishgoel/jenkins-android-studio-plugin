@@ -312,11 +312,27 @@
     <option name="sharing" hit="Data Sharing" />
   </configurable>
   <configurable id="preferences.updates" configurable_name="Updates">
+    <option name="1" hit="26.1.1" />
+    <option name="26" hit="26.1.1" />
     <option name="35" hit="AI-191.8026.42.35.5791312" />
     <option name="42" hit="AI-191.8026.42.35.5791312" />
     <option name="5791312" hit="AI-191.8026.42.35.5791312" />
     <option name="8026" hit="AI-191.8026.42.35.5791312" />
     <option name="ai-191" hit="AI-191.8026.42.35.5791312" />
+    <option name="0" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="10" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="29" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="4" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="android" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="api" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="q" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="revision" hit="API 29: Android 10.0 (Q) revision 4" />
+    <option name="android" hit="Android Platform Version:" />
+    <option name="platform" hit="Android Platform Version:" />
+    <option name="version" hit="Android Platform Version:" />
+    <option name="android" hit="Android SDK Tools:" />
+    <option name="sdk" hit="Android SDK Tools:" />
+    <option name="tools" hit="Android SDK Tools:" />
     <option name="3" hit="Android Studio 3.5" />
     <option name="5" hit="Android Studio 3.5" />
     <option name="android" hit="Android Studio 3.5" />
