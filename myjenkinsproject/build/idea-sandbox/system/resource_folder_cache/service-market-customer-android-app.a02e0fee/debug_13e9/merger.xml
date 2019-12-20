@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/tusharaeron/service-market-customer-android-app/core/src/debug/res"><file path="/Users/tusharaeron/service-market-customer-android-app/core/src/debug/res/values/google_maps_api.xml" qualifiers="" timestamp="1558677974000"><string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAi4hIER8xxKchp6F3RALnWNn68j2rNQ8U
+    </string></file></source></dataSet><mergedItems/></merger>

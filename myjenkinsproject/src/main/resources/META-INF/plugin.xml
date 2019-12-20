@@ -1,0 +1,60 @@
+<idea-plugin>
+    <id>myjenkinsproject.myjenkinsproject</id>
+    <name>Jenkins New Build tool</name>
+    <vendor email="tusharaeron@urbanclap.com" url="http://www.urbanclap.com">Urbanclap</vendor>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <group id="MyJenkinsPlugin">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+            <group id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin"
+                   popup="true"
+                   text="Jenkins build tool"
+                   description="jenkinsbuild">
+
+                <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildStage"
+                        class="actions.BuildStage"
+                        text="Build Stage"
+                        description="BuildStage">
+
+                    <keyboard-shortcut first-keystroke="control alt s" keymap="$default"/>
+                </action>
+
+                <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildProdDebug"
+                        class="actions.BuildProdDebug"
+                        text="Build ProdDebug"
+                        description="BuildProdDebug">
+
+                    <keyboard-shortcut first-keystroke="control alt " keymap="$default"/>
+                </action>
+                <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildRelease"
+                        class="actions.BuildRelease"
+                        text="Build Release"
+                        description="buildRelease">
+
+                    <keyboard-shortcut first-keystroke="control alt m" keymap="$default"/>
+                </action>
+                <action id = "MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildCustomBranch"
+                        class="actions.BuildCustomBranch"
+                        text="Build Custom Branch"
+                        description="buildCustomBranch">
+
+                    <keyboard-shortcut first-keystroke="control alt u" keymap="$default"/>
+                </action>
+            </group>
+
+
+        </group>
+    </actions>
+</idea-plugin>

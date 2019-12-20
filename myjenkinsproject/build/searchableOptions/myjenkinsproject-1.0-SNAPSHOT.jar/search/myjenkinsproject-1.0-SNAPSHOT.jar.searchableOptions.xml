@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="branch" path="ActionManager" hit="Build Custom Branch" />
+    <option name="build" path="ActionManager" hit="Build Custom Branch" />
+    <option name="custom" path="ActionManager" hit="Build Custom Branch" />
+    <option name="build" path="ActionManager" hit="Build ProdDebug" />
+    <option name="proddebug" path="ActionManager" hit="Build ProdDebug" />
+    <option name="build" path="ActionManager" hit="Build Release" />
+    <option name="release" path="ActionManager" hit="Build Release" />
+    <option name="build" path="ActionManager" hit="Build Stage" />
+    <option name="stage" path="ActionManager" hit="Build Stage" />
+    <option name="buildproddebug" path="ActionManager" hit="BuildProdDebug" />
+    <option name="buildstage" path="ActionManager" hit="BuildStage" />
+    <option name="buildcustombranch" path="ActionManager" hit="buildCustomBranch" />
+    <option name="buildrelease" path="ActionManager" hit="buildRelease" />
+  </configurable>
+</options>
+

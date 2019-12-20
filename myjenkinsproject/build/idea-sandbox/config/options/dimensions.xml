@@ -1,0 +1,10 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="806" />
+    <location key="FileChooserDialogImpl.0.0.2880.1800@192dpi" x="1016" y="330" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="642" y="520" />
+    <location key="ProcessPopupWindow.0.0.2880.1800@192dpi" x="694" y="1180" />
+    <location key="AndroidProcessChooserDialog.0.0.2880.1800@192dpi" x="1210" y="428" />
+    <size key="ProcessPopupWindow.0.0.2880.1800@192dpi" width="800" height="352" />
+  </component>
+</application>

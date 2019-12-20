@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="fileTemplates" configurable_name="File and Code Templates">
+    <option name="c" hit="C File Header" />
+    <option name="file" hit="C File Header" />
+    <option name="header" hit="C File Header" />
+    <option name="body" hit="C++ Implemented Function Body" />
+    <option name="c" hit="C++ Implemented Function Body" />
+    <option name="function" hit="C++ Implemented Function Body" />
+    <option name="implemented" hit="C++ Implemented Function Body" />
+    <option name="body" hit="C++ Overridden Function Body" />
+    <option name="c" hit="C++ Overridden Function Body" />
+    <option name="function" hit="C++ Overridden Function Body" />
+    <option name="overridden" hit="C++ Overridden Function Body" />
+    <option name="fixture" hit="Google Test Fixture" />
+    <option name="google" hit="Google Test Fixture" />
+    <option name="test" hit="Google Test Fixture" />
+    <option name="fixture" hit="Google Test Fixture SetUp Method" />
+    <option name="google" hit="Google Test Fixture SetUp Method" />
+    <option name="method" hit="Google Test Fixture SetUp Method" />
+    <option name="setup" hit="Google Test Fixture SetUp Method" />
+    <option name="test" hit="Google Test Fixture SetUp Method" />
+    <option name="fixture" hit="Google Test Fixture TearDown Method" />
+    <option name="google" hit="Google Test Fixture TearDown Method" />
+    <option name="method" hit="Google Test Fixture TearDown Method" />
+    <option name="teardown" hit="Google Test Fixture TearDown Method" />
+    <option name="test" hit="Google Test Fixture TearDown Method" />
+    <option name="google" hit="Google Test Test" />
+    <option name="test" hit="Google Test Test" />
+    <option name="junit3" hit="JUnit3 SetUp Method" />
+    <option name="method" hit="JUnit3 SetUp Method" />
+    <option name="setup" hit="JUnit3 SetUp Method" />
+    <option name="junit3" hit="JUnit3 TearDown Method" />
+    <option name="method" hit="JUnit3 TearDown Method" />
+    <option name="teardown" hit="JUnit3 TearDown Method" />
+    <option name="class" hit="JUnit3 Test Class" />
+    <option name="junit3" hit="JUnit3 Test Class" />
+    <option name="test" hit="JUnit3 Test Class" />
+    <option name="junit3" hit="JUnit3 Test Method" />
+    <option name="method" hit="JUnit3 Test Method" />
+    <option name="test" hit="JUnit3 Test Method" />
+    <option name="junit4" hit="JUnit4 Parameters Method" />
+    <option name="method" hit="JUnit4 Parameters Method" />
+    <option name="parameters" hit="JUnit4 Parameters Method" />
+    <option name="junit4" hit="JUnit4 SetUp Method" />
+    <option name="method" hit="JUnit4 SetUp Method" />
+    <option name="setup" hit="JUnit4 SetUp Method" />
+    <option name="junit4" hit="JUnit4 TearDown Method" />
+    <option name="method" hit="JUnit4 TearDown Method" />
+    <option name="teardown" hit="JUnit4 TearDown Method" />
+    <option name="class" hit="JUnit4 Test Class" />
+    <option name="junit4" hit="JUnit4 Test Class" />
+    <option name="test" hit="JUnit4 Test Class" />
+    <option name="junit4" hit="JUnit4 Test Method" />
+    <option name="method" hit="JUnit4 Test Method" />
+    <option name="test" hit="JUnit4 Test Method" />
+    <option name="junit5" hit="JUnit5 SetUp Method" />
+    <option name="method" hit="JUnit5 SetUp Method" />
+    <option name="setup" hit="JUnit5 SetUp Method" />
+    <option name="junit5" hit="JUnit5 TearDown Method" />
+    <option name="method" hit="JUnit5 TearDown Method" />
+    <option name="teardown" hit="JUnit5 TearDown Method" />
+    <option name="class" hit="JUnit5 Test Class" />
+    <option name="junit5" hit="JUnit5 Test Class" />
+    <option name="test" hit="JUnit5 Test Class" />
+    <option name="junit5" hit="JUnit5 Test Method" />
+    <option name="method" hit="JUnit5 Test Method" />
+    <option name="test" hit="JUnit5 Test Method" />
+    <option name="body" hit="OC Implemented Method Body" />
+    <option name="implemented" hit="OC Implemented Method Body" />
+    <option name="method" hit="OC Implemented Method Body" />
+    <option name="oc" hit="OC Implemented Method Body" />
+    <option name="1" hit="OC Overridden CopyWithZone Body 1" />
+    <option name="body" hit="OC Overridden CopyWithZone Body 1" />
+    <option name="copywithzone" hit="OC Overridden CopyWithZone Body 1" />
+    <option name="oc" hit="OC Overridden CopyWithZone Body 1" />
+    <option name="overridden" hit="OC Overridden CopyWithZone Body 1" />
+    <option name="2" hit="OC Overridden CopyWithZone Body 2" />
+    <option name="body" hit="OC Overridden CopyWithZone Body 2" />
+    <option name="copywithzone" hit="OC Overridden CopyWithZone Body 2" />
+    <option name="oc" hit="OC Overridden CopyWithZone Body 2" />
+    <option name="overridden" hit="OC Overridden CopyWithZone Body 2" />
+    <option name="3" hit="OC Overridden CopyWithZone Body 3" />
+    <option name="body" hit="OC Overridden CopyWithZone Body 3" />
+    <option name="copywithzone" hit="OC Overridden CopyWithZone Body 3" />
+    <option name="oc" hit="OC Overridden CopyWithZone Body 3" />
+    <option name="overridden" hit="OC Overridden CopyWithZone Body 3" />
+    <option name="1" hit="OC Overridden Description Body 1" />
+    <option name="body" hit="OC Overridden Description Body 1" />
+    <option name="description" hit="OC Overridden Description Body 1" />
+    <option name="oc" hit="OC Overridden Description Body 1" />
+    <option name="overridden" hit="OC Overridden Description Body 1" />
+    <option name="2" hit="OC Overridden Description Body 2" />
+    <option name="body" hit="OC Overridden Description Body 2" />
+    <option name="description" hit="OC Overridden Description Body 2" />
+    <option name="oc" hit="OC Overridden Description Body 2" />
+    <option name="overridden" hit="OC Overridden Description Body 2" />
+    <option name="3" hit="OC Overridden Description Body 3" />
+    <option name="body" hit="OC Overridden Description Body 3" />
+    <option name="description" hit="OC Overridden Description Body 3" />
+    <option name="oc" hit="OC Overridden Description Body 3" />
+    <option name="overridden" hit="OC Overridden Description Body 3" />
+    <option name="body" hit="OC Overridden InitWith Method Body" />
+    <option name="initwith" hit="OC Overridden InitWith Method Body" />
+    <option name="method" hit="OC Overridden InitWith Method Body" />
+    <option name="oc" hit="OC Overridden InitWith Method Body" />
+    <option name="overridden" hit="OC Overridden InitWith Method Body" />
+    <option name="body" hit="OC Overridden IsEqual Method Body" />
+    <option name="isequal" hit="OC Overridden IsEqual Method Body" />
+    <option name="method" hit="OC Overridden IsEqual Method Body" />
+    <option name="oc" hit="OC Overridden IsEqual Method Body" />
+    <option name="overridden" hit="OC Overridden IsEqual Method Body" />
+    <option name="body" hit="OC Overridden Method Body" />
+    <option name="method" hit="OC Overridden Method Body" />
+    <option name="oc" hit="OC Overridden Method Body" />
+    <option name="overridden" hit="OC Overridden Method Body" />
+    <option name="body" hit="OC Property Getter Body" />
+    <option name="getter" hit="OC Property Getter Body" />
+    <option name="oc" hit="OC Property Getter Body" />
+    <option name="property" hit="OC Property Getter Body" />
+    <option name="body" hit="OC Property Setter Body" />
+    <option name="oc" hit="OC Property Setter Body" />
+    <option name="property" hit="OC Property Setter Body" />
+    <option name="setter" hit="OC Property Setter Body" />
+    <option name="header" hit="OC Shared Instance Header" />
+    <option name="instance" hit="OC Shared Instance Header" />
+    <option name="oc" hit="OC Shared Instance Header" />
+    <option name="shared" hit="OC Shared Instance Header" />
+    <option name="implementation" hit="OC Shared Instance Implementation" />
+    <option name="instance" hit="OC Shared Instance Implementation" />
+    <option name="oc" hit="OC Shared Instance Implementation" />
+    <option name="shared" hit="OC Shared Instance Implementation" />
+    <option name="method" hit="TestNG Parameters Method" />
+    <option name="parameters" hit="TestNG Parameters Method" />
+    <option name="testng" hit="TestNG Parameters Method" />
+    <option name="method" hit="TestNG SetUp Method" />
+    <option name="setup" hit="TestNG SetUp Method" />
+    <option name="testng" hit="TestNG SetUp Method" />
+    <option name="method" hit="TestNG TearDown Method" />
+    <option name="teardown" hit="TestNG TearDown Method" />
+    <option name="testng" hit="TestNG TearDown Method" />
+    <option name="class" hit="TestNG Test Class" />
+    <option name="test" hit="TestNG Test Class" />
+    <option name="testng" hit="TestNG Test Class" />
+    <option name="method" hit="TestNG Test Method" />
+    <option name="test" hit="TestNG Test Method" />
+    <option name="testng" hit="TestNG Test Method" />
+  </configurable>
+</options>
+

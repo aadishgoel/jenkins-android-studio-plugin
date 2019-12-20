@@ -1,0 +1,5 @@
+Actions:
+Action when freeze detected: actions.BuildCustomBranch (MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildCustomBranch)
+Action duration when freeze detected: 15200ms
+Action when freeze ended: actions.BuildCustomBranch (MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildCustomBranch)
+Action duration when freeze ended: 20556ms
