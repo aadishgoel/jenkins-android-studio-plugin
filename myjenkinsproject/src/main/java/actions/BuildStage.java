@@ -25,29 +25,52 @@ public class BuildStage extends AnAction {
 
     OkHttpClient client = new OkHttpClient();
     Process process = null;
+    String repoName;
     @Override
     public void actionPerformed(@NotNull AnActionEvent e) {
         String command  = "git branch";
         String branchPath = runCommand(command);
         String branch = branchPath.split(" ")[1];
-        String comment = "stage";
-        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/service-market-customer-android-app/build", branch, comment);
+        String comment = "debug";
+        command  = "git rev-parse --show-toplevel";
+        repoName = getRepo(command);
+        if(repoName.equals("service-market-provider-android")) {
+            comment = "stagedebug";
+        }
+
+        doGetRequest("http://android-jenkins.urbanclap.com:8080/job/" + repoName + "/build", branch, comment);
 
         NotificationGroup noti = new NotificationGroup("prodDebugBuild", NotificationDisplayType.BALLOON, true);
-        NotificationAction action = NotificationAction.createSimple("Slack", () ->{
-            Desktop desktop = java.awt.Desktop.getDesktop();
-            URI oURL = null;
-            try {
-                oURL = new URI("https://app.slack.com/client/T034MTGTM/CFD5QKJE9");
-                desktop.browse(oURL);
-            } catch (URISyntaxException ex) {
-                ex.printStackTrace();
-            } catch (IOException ex) {
-                ex.printStackTrace();
-            }
-        });
+        NotificationAction action = null;
+        if(repoName.equals("service-market-customer-android-app") ) {
+            action = NotificationAction.createSimple("Slack", () -> {
+                Desktop desktop = java.awt.Desktop.getDesktop();
+                URI oURL = null;
+                try {
+                    oURL = new URI("https://app.slack.com/client/T034MTGTM/CFD5QKJE9");
+                    desktop.browse(oURL);
+                } catch (URISyntaxException ex) {
+                    ex.printStackTrace();
+                } catch (IOException ex) {
+                    ex.printStackTrace();
+                }
+            });
+        } else if(repoName.equals("service-market-provider-android")) {
+            action = NotificationAction.createSimple("Slack", () -> {
+                Desktop desktop = java.awt.Desktop.getDesktop();
+                URI oURL = null;
+                try {
+                    oURL = new URI("https://app.slack.com/client/T034MTGTM/CCMC0Q3GT");
+                    desktop.browse(oURL);
+                } catch (URISyntaxException ex) {
+                    ex.printStackTrace();
+                } catch (IOException ex) {
+                    ex.printStackTrace();
+                }
+            });
+        }
         noti.createNotification("Build",
-                "ProdDebug build triggered on Jenkins: Check Slack",
+                "Stage Debug build triggered on Jenkins: Check Slack",
                 NotificationType.INFORMATION,
                 null
         ).addAction(action).notify(e.getProject());
@@ -55,7 +78,7 @@ public class BuildStage extends AnAction {
     }
 
     private String doGetRequest(String url, String branch, String comment) {
-        String body = "{\"parameter\": [{\"name\":\"BRANCH\", \"value\":\"" + branch+ "\"}, {\"name\":\"PROJECT\", \"value\":\"service-market-customer-android-app\"}, {\"name\":\"COMMENT\", \"value\":\"#"+ comment +"\"}]}";
+        String body = "{\"parameter\": [{\"name\":\"BRANCH\", \"value\":\"" + branch+ "\"}, {\"name\":\"PROJECT\", \"value\":\"" + repoName + "\"}, {\"name\":\"COMMENT\", \"value\":\"#"+ comment +"\"}]}";
         RequestBody requestBody = new MultipartBuilder().addFormDataPart("json", body).build();
         Request request = new Request.Builder()
                 .header("Jenkins-Crumb", "da0c9cfe21dcbd55606e4ce605277fdc")
@@ -72,6 +95,27 @@ public class BuildStage extends AnAction {
             e.printStackTrace();
         }
         return response.body().toString();
+    }
+
+    private String getRepo(String command) {
+        ProcessBuilder processBuilder = new ProcessBuilder(command.split(" "));
+        processBuilder.redirectErrorStream(true);
+        DataContext dataContext = DataManager.getInstance().getDataContext();
+        Project project = (Project) dataContext.getData(DataConstants.PROJECT);
+        processBuilder.directory(new File(project.getBasePath()));
+
+        try {
+            process = processBuilder.start();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+            String[] temp = (new BufferedReader(new InputStreamReader(process.getInputStream()))).readLine().split("/");
+            return temp[temp.length -1];
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return "service-market-customer-android-app";
     }
 
     private String runCommand(String command) {

@@ -1,5 +1,5 @@
 <idea-plugin>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
   <change-notes>
       Add change notes here.&lt;br&gt;
       &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
@@ -17,10 +17,10 @@
           <keyboard-shortcut first-keystroke="control alt s" keymap="$default"/>
         </action>
         <action id="MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildProdDebug" class="actions.BuildProdDebug" text="Build ProdDebug" description="BuildProdDebug">
-          <keyboard-shortcut first-keystroke="control alt " keymap="$default"/>
+          <keyboard-shortcut first-keystroke="control alt p" keymap="$default"/>
         </action>
         <action id="MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildRelease" class="actions.BuildRelease" text="Build Release" description="buildRelease">
-          <keyboard-shortcut first-keystroke="control alt m" keymap="$default"/>
+          <keyboard-shortcut first-keystroke="control alt r" keymap="$default"/>
         </action>
         <action id="MyJenkinsPlugin.ToolsMenu.myJenkinsPlugin.BuildCustomBranch" class="actions.BuildCustomBranch" text="Build Custom Branch" description="buildCustomBranch">
           <keyboard-shortcut first-keystroke="control alt u" keymap="$default"/>

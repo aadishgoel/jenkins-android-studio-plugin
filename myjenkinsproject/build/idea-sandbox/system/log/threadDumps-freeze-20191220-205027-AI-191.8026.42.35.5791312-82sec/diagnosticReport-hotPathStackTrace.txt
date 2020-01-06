@@ -1,0 +1,22 @@
+"AWT-EventQueue-0" tid=0x0 runnable
+     java.lang.Thread.State: RUNNABLE
+     Frozen for 72secs
+	at actions.BuildCustomBranch.actionPerformed(BuildCustomBranch.java:10)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil$1.run(ActionUtil.java:261)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:278)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$1.performAction(IdeKeyEventDispatcher.java:625)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.lambda$processAction$2(IdeKeyEventDispatcher.java:674)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher$$Lambda$3480/977298551.run(Unknown Source)
+	at com.intellij.openapi.application.TransactionGuardImpl.performUserActivity(TransactionGuardImpl.java:195)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processAction(IdeKeyEventDispatcher.java:673)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.processActionOrWaitSecondStroke(IdeKeyEventDispatcher.java:518)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.inInitState(IdeKeyEventDispatcher.java:473)
+	at com.intellij.openapi.keymap.impl.IdeKeyEventDispatcher.dispatchKeyEvent(IdeKeyEventDispatcher.java:223)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:681)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:375)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

@@ -1,14 +1,14 @@
-1576829224925
-CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576829224924
-Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1576829224923
-KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576829224922
-KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576829224921
-DGM File Type￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1576829224920
-kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576829224919
-JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,42￿1576829224918
-Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,49￿1576829224917
-GDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1576829224916
-Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1576829224915
-XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1576829224914
-LLDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1576829224913
-HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1576829224912
+1576855487008
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,42￿1576855487007
+HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1576855487006
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,135￿1576855487005
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576855487004
+DGM File Type￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1576855487003
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576855487002
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1576855487001
+LLDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1576855487000
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1576855486999
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,49￿1576855486998
+KNM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576855486997
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,970144114￿1576855486996
+GDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1576855486995
